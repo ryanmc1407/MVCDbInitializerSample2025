@@ -12,7 +12,7 @@ namespace Week1Lab12026
 
             ActivityAPIClient.Track(StudentID : "S00236888", StudentName : "Ryan McClelland",
                 activityName: "RAD302 2026 Week 1 Lab 1", 
-                Task:"Database Initializer setup succesfully");
+                Task:"Creating controllers and views ");
             
             var builder = WebApplication.CreateBuilder(args);
 
